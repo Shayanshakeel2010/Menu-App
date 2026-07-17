@@ -8,9 +8,9 @@ This project is a simple website created using **HTML** and **CSS**. It demonstr
 
 * Create ordered and unordered lists using HTML.
 * Style lists with CSS.
-* Animated moving header for an attractive look.
+* Moving header animation.
 * Clean and responsive layout.
-* Beginner-friendly project structure.
+* Beginner-friendly design.
 
 ## 🛠️ Technologies Used
 
@@ -21,16 +21,20 @@ This project is a simple website created using **HTML** and **CSS**. It demonstr
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Double-click the `index.html` file or open it in your favorite web browser.
+3. Open the `index.html` file in your web browser.
 
 ## 📂 Project Purpose
 
-This project helps beginners understand how to:
+This project helps beginners learn how to:
 
-* Build web pages using HTML.
-* Style elements with CSS.
-* Create attractive animations using CSS.
-* Improve the appearance of a webpage with simple design techniques.
+* Create lists using HTML.
+* Style web pages using CSS.
+* Add animations with CSS.
+* Build attractive and responsive webpages.
+
+## 🔗 Local Project Link
+
+`file:///E:/Course/Projects/Html%20and%20Css/Restaurant/index.html`
 
 ## 👨‍💻 Author
 
