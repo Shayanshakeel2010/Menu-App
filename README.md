@@ -32,9 +32,9 @@ This project helps beginners learn how to:
 * Add animations with CSS.
 * Build attractive and responsive webpages.
 
-## 🔗 Local Project Link
+## 🔗  Project Link
 
-`file:///E:/Course/Projects/Html%20and%20Css/Restaurant/index.html`
+https://menu-apps.netlify.app/
 
 ## 👨‍💻 Author
 
